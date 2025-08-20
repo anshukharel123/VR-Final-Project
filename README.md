@@ -22,11 +22,11 @@ This project is an interactive learning platform in Virtual Reality (VR), design
 
  Goals
 
-* Enhance interactive learning through VR
-* Support different age groups with flexible modules
-* Provide an innovative platform for teachers and students to connect in a virtual space
+* Enhance interactive learning through VR.
+* Support different age groups with flexible modules.
+* Provide an innovative platform for teachers and students to connect in a virtual space.
 
 # Future Enhancement of Multi-user VR Classrooms
-* Gamified assessments and quizzes
-* AI-driven personalized learning paths
-* Cross-device compatibility (VR headsets, PCs, mobile)
+* Gamified assessments and quizzes.
+* AI-driven personalized learning paths,
+* Cross-device compatibility (VR headset,s, PCs, mobile)
